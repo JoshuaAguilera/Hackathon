@@ -1,5 +1,13 @@
-# Hackathon
-Entrega Hackathon
+# Project FOCUS
+
+# Entrega Hackathon Descripción
+Desarrollar una aplicación web donde promovamos la visita a los museos y destinos turisitcos, donde nuestro foco principal es la toma de fotografías sin flash para preservar las obras de arte y no tener que preocuparse más por llevar un dispositivo para tomar fotografias.
+
+# Link al Tiktok
+# https://vm.tiktok.com/ZM83U1F86/
+
+# Diagrama de Infraestructura Azure
+![Captura de Pantalla 2021-12-19 a la(s) 19 34 56](https://user-images.githubusercontent.com/89824966/146699633-38613c1b-6c98-4485-845f-6dbe161aa246.png)
 
 # Preview del Funcionamiento
 ![Captura de Pantalla 2021-12-19 a la(s) 7 28 39 p m](https://user-images.githubusercontent.com/89824966/146700064-e90326f3-a7de-4ef3-b0ab-cd996a098da4.png)![Captura de Pantalla 2021-12-19 a la(s) 7 30 18 p m](https://user-images.githubusercontent.com/89824966/146700074-66f617d5-dd85-4174-829e-30da4f170a39.png)
@@ -17,5 +25,9 @@ Entrega Hackathon
 ![Captura de Pantalla 2021-12-19 a la(s) 7 31 43 p m](https://user-images.githubusercontent.com/89824966/146700109-74b374b3-6317-4ab5-8fdd-595bd9c88a75.png)
 
 
-# Diagrama de Infraestructura
-![Captura de Pantalla 2021-12-19 a la(s) 19 34 56](https://user-images.githubusercontent.com/89824966/146699633-38613c1b-6c98-4485-845f-6dbe161aa246.png)
+# Costos
+No podemos dar un estimado de costos debido a que esta desarrollado en un crecimiento horizontal, es decir dpendiendo de la demanda será
+ el coste que se va a generar y por medio un orquestador apagar los recursos que ya no se estan utlizando, debido a esto no es posible estimar un costo final.
+
+# Qué te pareció el evento
+Realmente como equipo expresamos nuestra satisfacción porque reforzamos conocimientos, además que aprendimos mucho sobre Azure, conceptos que no teníamos ninguna experiencia en ellos.  Entramos a este curso sin conocer a nadie , lo que nos intrigaba nervios pero descubrimos que existen personas con la misma intensidad y deseo de aprender  y eso hace que unamos el deseo de aprender y nuestros conocimientos y volviéndonos un gran equipo.
