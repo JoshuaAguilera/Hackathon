@@ -4,7 +4,7 @@
 Desarrollar una aplicación web donde promovamos la visita a los museos y destinos turisitcos, donde nuestro foco principal es la toma de fotografías sin flash para preservar las obras de arte y no tener que preocuparse más por llevar un dispositivo para tomar fotografias.
 
 # Link al Tiktok
-# https://vm.tiktok.com/ZM83U1F86/
+# https://vm.tiktok.com/ZM83UdnNw/
 
 # Diagrama de Infraestructura Azure
 ![Captura de Pantalla 2021-12-19 a la(s) 19 34 56](https://user-images.githubusercontent.com/89824966/146699633-38613c1b-6c98-4485-845f-6dbe161aa246.png)
